@@ -3,7 +3,7 @@ function Loga-Resultado {
     param (
         $servico,
         $estado,
-	$mensagem
+        $mensagem
     )
 
     write-host ic=$env:computername evento="svcstate" componente=$servico estado=$estado msg=$mensagem
