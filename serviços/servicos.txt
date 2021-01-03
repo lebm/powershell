@@ -1,0 +1,3 @@
+Appinfo
+bthserv
+defragsvc
